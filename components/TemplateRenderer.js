@@ -248,7 +248,7 @@ const doc= {
   }
 
   const registry = {
-    KRISNA_TEMPLATE: [
+    KrisnaBaccII_TEMPLATE: [
       {
         id: "certificate-1",
         label: "DIGITAL Renderer",
