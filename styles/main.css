@@ -174,3 +174,12 @@ body::-webkit-scrollbar {
 .renderer p{
 	padding: 5px 0px;
 }
+
+
+/* css for table */
+table, td, th{
+	border:1px solid black
+}
+td, th{
+	padding: 10px 15px;
+}
